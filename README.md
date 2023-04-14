@@ -3,8 +3,7 @@
 * 💻 Estou atualmente estudando e fazendo projetos principalmente em backend.
 * 🎓 Faço Análise e Desenvolvimento de Sistemas e estudo por fora em vídeos, documentações, comunidades do discord e na DIO.
 * 😎 Quando não estou estudando, eu gosto de jogar, tocar violão, ler livros, sair e andar de skate. 
-* ✝ Isaías 40:29-31. Ele fortalece ao cansado e dá grande vigor ao que está sem forças. Até os jovens se cansam e ficam exaustos, e os moços tropeçam e caem;
-mas aqueles que esperam no Senhor renovam as suas forças. Voam bem alto como águias; correm e não ficam exaustos, andam e não se cansam.
+* ✝ Isaías 40:29-31. 
 
 
 <div style="display: inline_block" align="center"><br>
